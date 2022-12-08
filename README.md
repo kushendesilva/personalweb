@@ -1,21 +1,22 @@
 ## 💻 My Personal Website
 
-[![Project](https://img.shields.io/badge/Project-008080?style=for-the-badge&logoColor=white)](https://ksuehn.tech)
-[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logoColor=white)](https://kushen.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logoColor=white)](https://kushen.me)
-[![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logoColor=white)](mailto:kushendesilva@gmail.com)
+[![Project](https://img.shields.io/badge/Project-008080?style=for-the-badge&logo=GoogleCloud&logoColor=white)](https://kushen.tech)
+[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://kushen.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://kushen.me)
+[![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kushendesilva@gmail.com)
 
-<!-- [![APK](https://img.shields.io/badge/APK-000000?style=for-the-badge&logoColor=white)](https://github.com/kushendesillva/pickngo/releases/download/v2.0.0/pickngo.apk) -->
+<!-- [![APK](https://img.shields.io/badge/APK-008080?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://github.com/kushendesilva/pickngo/releases/download/v2.0.0/pickngo.apk) -->
 
 ## 🌐 Socials:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://linkedin.com/in/kushendesilva)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94727827878)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushendesilva)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kushendesilva)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kushendesilva)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kushendesilva)
+
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kushendesilva)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/kushenthimira)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@ciphernpc)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@ciphernpc) -->
 
 ## 🔌 Tech Used:
 
